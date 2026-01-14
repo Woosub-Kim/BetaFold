@@ -220,5 +220,3 @@
 5. distogram을 넣으면 학습이 왜 안정화되는지(gradient/오류 패턴) 확인
 
 ---
-* **B) 핵심 모델 코드 중심(Tiny Transformer 구현부터)**
-
